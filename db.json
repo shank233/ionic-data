@@ -31,9 +31,9 @@
     },
     "carNumber" : ["00010","001","002","004","005","006","007","008","009","00011"],
     "seatLocation": [
-        {"CarLocation": ["A-End", "B-End"]},
-        {"Level": ["Upper", "Lower"]},
-        {"ADA": ["YES", "NO"]}
+        {"name": "CarLocation", "options": ["A-End", "B-End"]},
+        {"name": "Level", "options": ["Upper", "Lower"]},
+        {"name": "ADA", "options": ["YES", "NO"]}
     ]
   },
   "api2": [
